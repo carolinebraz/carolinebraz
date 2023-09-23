@@ -2,7 +2,7 @@
 	This file is also available in <a href=https://github.com/carolinebraz/carolinebraz/blob/main/README.md> English </a> :us:
 </h5>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=42&pause=1000&color=1993FF&vCenter=true&width=500&lines=Olá+🌎;Sou+a+Caroline+Braz;Desenvolvedora+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=42&pause=1000&color=1993FF&vCenter=true&width=750&lines=Olá+🌎;Sou+a+Caroline+Braz;Desenvolvedora+Full+Stack)](https://git.io/typing-svg)
 
 - :mag: Estou em busca de um emprego na área de desenvolvimento backend
 - :nerd_face: Atualmente estudo Java/Spring
