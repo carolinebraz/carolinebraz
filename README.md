@@ -2,10 +2,9 @@
 	Este arquivo também está disponível em <a href=https://github.com/carolinebraz/carolinebraz/blob/main/README-pt.md> Português </a> :brazil: 
 </h5>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=42&pause=1000&color=1993FF&vCenter=true&width=500&lines=Hello+🌎;I'm+Caroline+Braz;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=42&pause=1000&color=1993FF&vCenter=true&width=750&lines=Hello+🌎;I'm+Caroline+Braz;Civil+Engineer;Full+Stack+Developer;MBA+in+Software+Engineering)](https://git.io/typing-svg)
 
-- :mag: I'm looking for a job in backend development
-- :nerd_face: I'm currently studying Java/Spring
+- :nerd_face: I'm pursuing an MBA in Software Engineering from [USP/ESALQ](https://mbauspesalq.com/)
 - :computer: Full Stack Developer from [Generation Brazil](https://brazil.generation.org/)
 - :mortar_board: Bachelor's Degree in Civil Engineering from [UFSCar](https://www.ufscar.br/)
 - :email: How to reach me: [jcarolinebraz@gmail.com](mailto:jcarolinebraz@gmail.com)
