@@ -2,10 +2,9 @@
 	This file is also available in <a href=https://github.com/carolinebraz/carolinebraz/blob/main/README.md> English </a> :us:
 </h5>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=42&pause=1000&color=1993FF&vCenter=true&width=750&lines=Olá+🌎;Sou+a+Caroline+Braz;Desenvolvedora+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=42&pause=1000&color=1993FF&vCenter=true&width=750&lines=Olá+🌎;Sou+a+Caroline+Braz;Engenheira+Civil;Desenvolvedora+Full+Stack;MBA+em+Engenharia+de+Software)](https://git.io/typing-svg)
 
-- :mag: Estou em busca de um emprego na área de desenvolvimento backend
-- :nerd_face: Atualmente estudo Java/Spring
+- :nerd_face: Estou cursando MBA em Engenharia de Software pela [USP/ESALQ](https://mbauspesalq.com/)
 - :computer: Desenvolvedora Full Stack pela [Generation Brasil](https://brazil.generation.org/)
 - :mortar_board: Graduada em Engenharia Civil pela [UFSCar](https://www.ufscar.br/)
 - :email: Entre em contato: <a href="mailto:jcarolinebraz@gmail.com">jcarolinebraz@gmail.com</a>
